@@ -1,0 +1,5 @@
+public class marriage{
+
+  System.out.println(This is my mrriage file);
+
+}
